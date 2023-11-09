@@ -1,0 +1,17 @@
+---
+name: npm-groovy-lint
+description: Groovy & Jenkinsfile Linter, Formatter and Auto-fixer
+homepage: https://github.com/nvuillam/npm-groovy-lint
+licenses:
+  - GPL-3.0-only
+languages:
+  - Groovy
+categories:
+  - Linter
+  - Formatter
+
+source:
+  id: pkg:npm/npm-groovy-lint@12.0.1
+
+bin:
+  npm-groovy-lint: npm:npm-groovy-llint
