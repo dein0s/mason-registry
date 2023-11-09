@@ -14,4 +14,4 @@ source:
   id: pkg:npm/npm-groovy-lint@12.0.1
 
 bin:
-  npm-groovy-lint: npm:npm-groovy-llint
+  npm-groovy-lint: npm:npm-groovy-lint
